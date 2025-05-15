@@ -8,7 +8,7 @@
 
 ### 解説
 
-
+[AtCoder ABC 065 B - Trained? (4Q, 茶色, 200 点)](https://drken1215.hatenablog.com/entry/2025/01/07/023719)
 
 ## 資料
 
